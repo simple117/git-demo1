@@ -7,4 +7,5 @@ void main()
 	print("Hello world",end="\n");
 	Console.WriteLine("Hello world");
 	OKKKKK;
+123123
 }
