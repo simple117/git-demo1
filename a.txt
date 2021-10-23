@@ -5,4 +5,5 @@ void main()
 	printf("Hello world\n");
 	Console.log("Hello world");
 	print("Hello world",end="\n");
+	Console.WriteLine("Hello world");
 }
