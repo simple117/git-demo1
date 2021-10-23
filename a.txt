@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
+	System.out.println("Hello world\n");
 	printf("Hello world\n");
 }
