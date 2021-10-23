@@ -4,5 +4,5 @@ void main()
 	System.out.println("Hello world\n");
 	printf("Hello world\n");
 	Console.log("Hello world");
-	print("Hello world");
+	print("Hello world",end="\n");
 }
