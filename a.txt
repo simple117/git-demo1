@@ -3,4 +3,5 @@ void main()
 {
 	System.out.println("Hello world\n");
 	printf("Hello world\n");
+	Console.log("Hello world");
 }
