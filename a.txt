@@ -6,4 +6,5 @@ void main()
 	Console.log("Hello world");
 	print("Hello world",end="\n");
 	Console.WriteLine("Hello world");
+	OKKKKK;
 }
